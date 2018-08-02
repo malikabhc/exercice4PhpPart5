@@ -8,7 +8,7 @@
     <p>
       <?php
         //Création du tableau $months
-        $months = array ('janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'aout', 'septembre', 'octobre', 'novembre', 'décembre');
+        $months = array('janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'aout', 'septembre', 'octobre', 'novembre', 'décembre');
         //Modification de l'index 7
         $months[7] = 'août';
         //Affichage de l'index 7
